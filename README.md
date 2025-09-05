@@ -1,6 +1,22 @@
 # flask_mongodb_api_crud
 
-# 使用技術:
+# Step:
+1. Authentication(username,password)
+2. post api(add a single api)
+   ![POST_api_2.jpg](/images/POST_api_2.jpg)
+3. get api(get all data)
+   ![GET_api.jpg](/images/GET_api.jpg)
+4. put api(update data)
+   ![PUT_api.jpg](/images/PUT_api.jpg)
+7. get api(see the single data)
+   ![find_single_api.jpg](/images/find_single_api.jpg)
+8. delete api
+   ![DELETE_api.jpg](/images/DELETE_api.jpg)
+9. get api(get all data)
+   ![get_all_api_browser.jpg](/images/get_all_api_browser.jpg)
+10.See data on mongoDB
+   ![MongoDB_data.jpg](/images/MongoDB_data.jpg)
+# Use Technology:
 
 - Postman:API測試
 - FLASK
