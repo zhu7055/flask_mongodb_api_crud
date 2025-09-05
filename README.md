@@ -5,4 +5,4 @@
 - Postman:API測試
 - FLASK
 - Mongodb
-- auth
+- pymongo
