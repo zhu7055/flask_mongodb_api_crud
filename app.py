@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 # 設定 MongoDB 連線資訊
 # 請務必將 <db_password> 替換為您的實際密碼
-app.config["MONGO_URI"] = "mongodb+srv://judy18258_db_user:XYMJwB5OeEc20DEW@flaskapi.52oxtsc.mongodb.net/visitors_db?retryWrites=true&w=majority&appName=FlaskAPI"
+app.config["MONGO_URI"] = "<mondodb connection string and password>"
 mongo = PyMongo(app)
 
 # 建立 HTTPBasicAuth 物件
@@ -103,3 +103,4 @@ def visitor_document(id):
 if __name__ == "__main__":
     # 在本機測試時使用 debug=True 會更方便
     app.run(debug=True)
+
