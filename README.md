@@ -1,4 +1,4 @@
-# flask_mongodb_api
+# flask_mongodb_api_crud
 
 # 使用技術:
 
