@@ -10,13 +10,13 @@
    ![GET_api.jpg](/images/GET_api.jpg)
 4. put api(update data)
    ![PUT_api.jpg](/images/PUT_api.jpg)
-7. get api(see the single data)
+5. get api(see the single data)
    ![find_single_api.jpg](/images/find_single_api.jpg)
-8. delete api
+6. delete api
    ![DELETE_api.jpg](/images/DELETE_api.jpg)
-9. get api(get all data)
+7. get api(get all data)
    ![get_all_api_browser.jpg](/images/get_all_api_browser.jpg)
-10.See data on mongoDB
+8.See data on mongoDB
    ![MongoDB_data.jpg](/images/MongoDB_data.jpg)
 # Use Technology:
 
