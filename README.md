@@ -16,7 +16,7 @@
    ![DELETE_api.jpg](/images/DELETE_api.jpg)
 7. get api(get all data)
    ![get_all_api_browser.jpg](/images/get_all_api_browser.jpg)
-8.See data on mongoDB
+8. See data on mongoDB
    ![MongoDB_data.jpg](/images/MongoDB_data.jpg)
 # Use Technology:
 
